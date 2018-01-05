@@ -25,3 +25,16 @@ hs_err_pid*
 
 .idea
 *.iml
+out/
+pom.xml
+src/main/java/
+src/main/webapp/META-INF/
+src/main/webapp/WEB-INF/applicationContext.xml
+src/main/webapp/WEB-INF/dispatcher-servlet.xml
+src/main/webapp/WEB-INF/resources/
+src/main/webapp/WEB-INF/views/
+src/main/webapp/WEB-INF/web.xml
+src/test/
+target/generated-sources/
+target/maven-archiver/
+target/maven-status/
